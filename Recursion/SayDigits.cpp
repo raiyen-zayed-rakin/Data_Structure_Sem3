@@ -12,7 +12,7 @@ void saydigits(int n, string arr[]){
 
   saydigits(n,arr);//test
 
-  cout<<arr[digit]<<" ";
+  cout<<arr[digit]<<" ";//hhteqan
 
     
 }
