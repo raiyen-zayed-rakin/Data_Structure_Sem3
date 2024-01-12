@@ -10,7 +10,7 @@ void saydigits(int n, string arr[]){
   int digit = n % 10;
   n = n / 10;
 
-  saydigits(n,arr);
+  saydigits(n,arr);//test
 
   cout<<arr[digit]<<" ";
 
