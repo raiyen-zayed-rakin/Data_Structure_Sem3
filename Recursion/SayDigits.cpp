@@ -6,7 +6,7 @@ void saydigits(int n, string arr[]){
   if(n == 0)
   return;
 
-  //process
+  //processsbvab
   int digit = n % 10;
   n = n / 10;
 
